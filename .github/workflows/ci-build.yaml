@@ -1,7 +1,7 @@
 name: CI Build
 on:
   push:
-    brahces:
+    branches:
       - main
   pull_request:
     branches:
